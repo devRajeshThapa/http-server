@@ -27,6 +27,7 @@ Thank you for considering contributing to this project! We welcome all contribut
     cmake --build .
     cmake --install . --prefix ../dist
     ```
+    > Note: The `dist` directory will be created at the root of the project.
 
 ### Making Changes
 
