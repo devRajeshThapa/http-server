@@ -10,7 +10,7 @@ Thank you for considering contributing to this project! We welcome all contribut
 2. Clone your forked repository to your local machine:
     ```sh
     git clone https://github.com/devRajeshThapa/http-server.git
-    cd http
+    cd http-server
     ```
 
 ### Setting Up Your Development Environment
