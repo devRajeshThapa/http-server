@@ -94,19 +94,3 @@ This project is compatible with the following platforms:
 
 7. **Access your server**:
     Open a web browser and navigate to `http://localhost:8080/`, replacing `8080` with the port number you used in your server code. You should see the response specified in your handler, such as `<h1>Hello</h1>`.
-
-### Contributing
-
-We welcome contributions! Please see CONTRIBUTING.md for details on how to get involved.
-
-### License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-### Code of Conduct
-
-Please read our Code of Conduct to understand the standards we expect from our community.
-
-### Acknowledgements
-
-This implementation demonstrates basic socket programming in C++ using Unix APIs. Inspired by various online resources and tutorials on socket programming.
